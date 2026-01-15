@@ -9,4 +9,5 @@ public class Ball {
     private Player batsman;
     private Player bowler;
     private BallType ballType;
+    private String commentary;
 }
